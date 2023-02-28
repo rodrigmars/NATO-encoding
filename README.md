@@ -9,8 +9,8 @@ Este é um desafio simples que envolve o desenvolvimento de um programa em *Pyth
 
 ## Roteiro
 
-1. Carregar o texto abaixo em memória
-2. Transformar os dados em memória para matriz de dados:
+1. Carregar o texto ***O que é real?*** em memória.
+2. Transformar os dados em memória para matriz de dados.
 3. Desenvolver algoritmo que possa *cofidicar* e *decodificar* uma matriz usando o **alfabeto fonético da OTAN**.
 
 ## Regras
