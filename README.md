@@ -1,6 +1,11 @@
 # NATO-encoding
 
-Este é um desafio simples para conversão de palavras usando um **alfabeto ortográfico de radiotelefonia**.
+Este é um desafio simples para conversão de palavras usando um **alfabeto ortográfico de radiotelefonia**.  
+A coversão deve ser aplicada sobre o texto abaixo...
+
+## O que é real?
+> O que é real? Como você define o 'real'? Se você está falando sobre o que você pode sentir, o que você pode cheirar, o que você pode saborear e ver, o real são simplesmente sinais elétricos interpretados pelo seu cérebro.
+*(filme Matrix)*
 
 ## Roteiro
 
