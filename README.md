@@ -1,6 +1,6 @@
 # NATO-encoding
 
-Este é um desafio simples para conversão de palavras usando um **alfabeto ortográfico de radiotelefonia**.  
+Este é um desafio simples que envolve o desenvolvimento de um programa em *Python* para conversão de palavras usando um **alfabeto ortográfico de radiotelefonia**.  
 > A *conversão* deve ser aplicada para o texto a seguir.
 
 ## O que é real?
